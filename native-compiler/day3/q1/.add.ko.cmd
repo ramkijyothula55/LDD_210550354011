@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native-compiler/day3/q1/add.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native-compiler/day3/q1/add.ko /home/pi/device-drivers/native-compiler/day3/q1/add.o /home/pi/device-drivers/native-compiler/day3/q1/add.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native-compiler/day3/q1/average.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native-compiler/day3/q1/average.ko /home/pi/device-drivers/native-compiler/day3/q1/average.o /home/pi/device-drivers/native-compiler/day3/q1/average.mod.o;  true

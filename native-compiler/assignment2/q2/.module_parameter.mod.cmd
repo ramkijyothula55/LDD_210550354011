@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native-compiler/assignment2/q2/module_parameter.mod := { echo  /home/pi/device-drivers/native-compiler/assignment2/q2/module_parameter.o;  echo; } > /home/pi/device-drivers/native-compiler/assignment2/q2/module_parameter.mod

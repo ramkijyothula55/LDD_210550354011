@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native-compiler/day3/q2/modules.order := {   echo /home/pi/device-drivers/native-compiler/day3/q2/average.ko;   echo /home/pi/device-drivers/native-compiler/day3/q2/add.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/native-compiler/day3/q2/modules.order

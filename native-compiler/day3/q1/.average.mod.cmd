@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native-compiler/day3/q1/average.mod := { echo  /home/pi/device-drivers/native-compiler/day3/q1/average.o;  echo; } > /home/pi/device-drivers/native-compiler/day3/q1/average.mod

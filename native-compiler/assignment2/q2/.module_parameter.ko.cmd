@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native-compiler/assignment2/q2/module_parameter.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native-compiler/assignment2/q2/module_parameter.ko /home/pi/device-drivers/native-compiler/assignment2/q2/module_parameter.o /home/pi/device-drivers/native-compiler/assignment2/q2/module_parameter.mod.o;  true
